@@ -2,8 +2,10 @@
 from discord import Intents
 from discord.ext.commands import Bot, when_mentioned
 
+
 # Import Value
 import security
+
 
 # Start Code
 BOT_TOKEN = security.SLIMEBOT
